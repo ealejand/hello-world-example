@@ -24,6 +24,6 @@ pipeline {
 
   }
   environment {
-    JDK_HOME = 'JDK8'
+    JAVA_HOME = 'JDK8'
   }
 }
