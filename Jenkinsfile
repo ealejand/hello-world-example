@@ -23,4 +23,7 @@ pipeline {
     }
 
   }
+  environment {
+    JAVA_HOME = 'JDK8'
+  }
 }
